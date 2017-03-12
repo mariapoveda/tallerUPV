@@ -9,7 +9,7 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
 
 1.- Introducción a la estandarización
 
-2.- Tecnologías semánticas estándar en la web 
+2.- [Tecnologías semánticas estándar en la web] (https://github.com/mariapoveda/tallerUPV/raw/master/transparencias/2017.03.13%20S2%20Tecnologias%20web%20semantica.pdf)
 
 3.- Desarrollo, implantación y certificación de estándares  
 
