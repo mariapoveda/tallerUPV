@@ -19,11 +19,11 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
 Resultados de aprendizaje esperados:
 
 - Desarrollo de estándares
--- describir la estructura de una especificación estándar
--- Identificar los organismos de estandarización y sus procesos 
--- valorar ventajas y desventajas de especificar un estándar
+  -- describir la estructura de una especificación estándar
+  -- Identificar los organismos de estandarización y sus procesos 
+  -- valorar ventajas y desventajas de especificar un estándar
 -	Vocabularios
--- describir qué son la web semántica y los datos enlazados
--- explicar las ventajas de enlazar los datos en la web
--- explicar las ventajas de utilizar vocabularios
--- identificar las tecnologías utilizadas en la web semántica
+  -- describir qué son la web semántica y los datos enlazados
+  -- explicar las ventajas de enlazar los datos en la web
+  -- explicar las ventajas de utilizar vocabularios
+  -- identificar las tecnologías utilizadas en la web semántica
