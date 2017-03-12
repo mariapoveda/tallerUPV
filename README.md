@@ -3,7 +3,7 @@ Materiales para el Taller Definición de estándares abiertos
 
 http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos-32495289285/
 
-# Sesiones planificadas:
+## Sesiones planificadas:
 
 0.- Presentación de los asistentes y de los formadores
 
@@ -16,7 +16,7 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
 4.- Manos a la obra 
 
 
-Resultados de aprendizaje esperados:
+## Resultados de aprendizaje esperados:
 
 - Desarrollo de estándares
   - describir la estructura de una especificación estándar
