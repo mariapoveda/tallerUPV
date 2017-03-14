@@ -5,13 +5,13 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
 
 ## Sesiones planificadas:
 
-0.- Presentación de los asistentes y de los formadores
+0.- [Presentación de los asistentes y de los formadores] (https://github.com/mariapoveda/tallerUPV/blob/master/transparencias/2017.03.13%20S0%20Presentacion.pdf)
 
-1.- Introducción a la estandarización
+1.- [Introducción a la estandarización] (https://github.com/mariapoveda/tallerUPV/blob/master/transparencias/2017.03.13%20S1%20IntroduccionR.pdf)
 
 2.- [Tecnologías semánticas estándar en la web] (https://github.com/mariapoveda/tallerUPV/raw/master/transparencias/2017.03.13%20S2%20Tecnologias%20web%20semantica.pdf)
 
-3.- Desarrollo, implantación y certificación de estándares  
+3.- [Desarrollo, implantación y certificación de estándares] (https://github.com/mariapoveda/tallerUPV/blob/master/transparencias/2017.03.13%20S3%20Desarrollo.pdf)
 
 4.- Manos a la obra 
 
