@@ -27,4 +27,5 @@ Materiales para el [Taller Definición de estándares abiertos] (http://civichac
   - identificar las tecnologías utilizadas en la web semántica
 
 [Hoja de cálculo requisitos grupos] (goo.gl/0c3CMJ)
+
 [Feedback] (https://docs.google.com/forms/d/e/1FAIpQLSc8KPkBtE89dQfrJQ0MAhc1hNIFbcuUH2WZ-Hv6eikKBrxjKQ/viewform)
