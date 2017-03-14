@@ -27,3 +27,5 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
   - explicar las ventajas de enlazar los datos en la web
   - explicar las ventajas de utilizar vocabularios
   - identificar las tecnologías utilizadas en la web semántica
+
+[Feedback] (https://docs.google.com/forms/d/e/1FAIpQLSc8KPkBtE89dQfrJQ0MAhc1hNIFbcuUH2WZ-Hv6eikKBrxjKQ/viewform)
