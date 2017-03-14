@@ -1,7 +1,5 @@
 # tallerUPV
-Materiales para el Taller Definición de estándares abiertos
-
-http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos-32495289285/
+Materiales para el [Taller Definición de estándares abiertos] (http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos-32495289285/)
 
 ## Sesiones planificadas:
 
@@ -28,4 +26,5 @@ http://civichackers.webs.upv.es/eventos/taller-definicion-de-estandares-abiertos
   - explicar las ventajas de utilizar vocabularios
   - identificar las tecnologías utilizadas en la web semántica
 
+[Hoja de cálculo requisitos grupos] (goo.gl/0c3CMJ)
 [Feedback] (https://docs.google.com/forms/d/e/1FAIpQLSc8KPkBtE89dQfrJQ0MAhc1hNIFbcuUH2WZ-Hv6eikKBrxjKQ/viewform)
